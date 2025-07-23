@@ -6,6 +6,10 @@
     <img align="center" src="https://user-images.githubusercontent.com/92294703/199122472-d67f5adb-d811-4510-a988-b07fef598ff1.png" alt="linkedin" height="22px" width="22px">
   </a>
   &nbsp;&nbsp;
+  <a href="YOUR_CV_PDF_LINK_HERE" target="_blank">
+    <img align="center" src="[https://user-images.githubusercontent.com/92294703/234863019-93834a66-32b0-4248-a9a3-57e052eda4c4.png](https://github.com/FacuRamallo/professional-profile/blob/master/Facundo_Ramallo_CV.pdf)" alt="cv" height="22px" width="22px">
+  </a>
+  &nbsp;&nbsp;
 </p>
 
 I'm Facundo Ramallo a Backend developer who likes to work with Java and Kotlin (Spring framework) with focus on improving my coding skills and knowledge about design patterns, DDD, TDD and software architecture, applying CLEAN CODE and SOLID principles.  
