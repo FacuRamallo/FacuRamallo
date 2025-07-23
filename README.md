@@ -6,9 +6,7 @@
     <img align="center" src="https://user-images.githubusercontent.com/92294703/199122472-d67f5adb-d811-4510-a988-b07fef598ff1.png" alt="linkedin" height="22px" width="22px">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/FacuRamallo/professional-profile/blob/master/Facundo_Ramallo_CV.pdf" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/92294703/234863019-93834a66-32b0-4248-a9a3-57e052eda4c4.png?v=1" alt="cv" height="22px" width="22px">
-  </a>
+  <a href="https://github.com/FacuRamallo/professional-profile/blob/master/Facundo_Ramallo_CV.pdf" target="_blank">View My CV</a>
   &nbsp;&nbsp;
 </p>
 
