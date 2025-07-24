@@ -12,7 +12,7 @@
   &nbsp;&nbsp;
 </p>
 
-** Backend Developer | Java & Kotlin **
+## Backend Developer | Java & Kotlin
 
 * Building scalable applications with the Spring Framework.
 * Passionate about Software Architecture, Design Patterns, and Domain-Driven Design (DDD).
