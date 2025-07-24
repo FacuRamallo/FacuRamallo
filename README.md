@@ -10,7 +10,13 @@
   &nbsp;&nbsp;
 </p>
 
-I'm Facundo Ramallo a Backend developer who likes to work with Java and Kotlin (Spring framework) with focus on improving my coding skills and knowledge about design patterns, DDD, TDD and software architecture, applying CLEAN CODE and SOLID principles.  
+Backend Developer | Java & Kotlin 🚀
+
+Building scalable applications with the Spring Framework.
+
+Passionate about Software Architecture, Design Patterns, and Domain-Driven Design (DDD).
+
+Committed to clean, high-quality code through TDD, SOLID, and Clean Code principles. 
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacuRamallo&layout=compact&hide_title=1&card_width=300" alt="Top languages used in my repos" />
