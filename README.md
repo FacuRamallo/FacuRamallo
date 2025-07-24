@@ -7,7 +7,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/FacuRamallo/professional-profile/blob/master/Facundo_Ramallo_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View_CV-3DA6DD?style=flat" alt="View CV">
+    <img src="https://img.shields.io/badge/View_CV-3DA6DD?style=flat" alt="CV">
   </a>
   &nbsp;&nbsp;
 </p>
